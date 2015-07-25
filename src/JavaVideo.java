@@ -3,7 +3,7 @@ public class JavaVideo {
 	
 	public static void main(String[] args){
 		
-	  int[][] a = new int[2][3];
+	  int[][] a = new int[3][4];
 	  int num = 2;
 	  
 	  for(int i = 0;i < a.length;i++){
@@ -19,12 +19,7 @@ public class JavaVideo {
 		  
 	  }
 	  
-	  
-	  
-	
-	  
-	  
-	  
+
 	}
 	
 	
